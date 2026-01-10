@@ -97,5 +97,6 @@ git checkout develop
 git checkout -b feature-your-feature
 ```
 ---
---After Coding 
--feature-your-feature → PR → develop
+After Coding 
+---
+```feature-your-feature → PR → develop```
